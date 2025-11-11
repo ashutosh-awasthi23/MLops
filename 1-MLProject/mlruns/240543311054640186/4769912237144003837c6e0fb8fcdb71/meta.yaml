@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/240543311054640186/4769912237144003837c6e0fb8fcdb71/artifacts
+end_time: 1762164867592
+entry_point_name: ''
+experiment_id: '240543311054640186'
+lifecycle_stage: active
+run_id: 4769912237144003837c6e0fb8fcdb71
+run_name: delightful-newt-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762164847820
+status: 3
+tags: []
+user_id: ashut

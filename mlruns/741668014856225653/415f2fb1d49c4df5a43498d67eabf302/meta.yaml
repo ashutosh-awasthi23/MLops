@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/741668014856225653/415f2fb1d49c4df5a43498d67eabf302/artifacts
+end_time: 1762259506730
+entry_point_name: ''
+experiment_id: '741668014856225653'
+lifecycle_stage: active
+run_id: 415f2fb1d49c4df5a43498d67eabf302
+run_name: nosy-sheep-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762259502659
+status: 3
+tags: []
+user_id: ashut

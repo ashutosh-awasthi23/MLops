@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/331272148702755333/b0c28d5f8ab64bbbb60b042de6bd388a/artifacts
+end_time: 1762259249078
+entry_point_name: ''
+experiment_id: '331272148702755333'
+lifecycle_stage: active
+run_id: b0c28d5f8ab64bbbb60b042de6bd388a
+run_name: sincere-hound-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762259245034
+status: 3
+tags: []
+user_id: ashut

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/323637752626771435/f09fd7c84181405ea269c59731ce8da3/artifacts
+end_time: 1762146094140
+entry_point_name: ''
+experiment_id: '323637752626771435'
+lifecycle_stage: active
+run_id: f09fd7c84181405ea269c59731ce8da3
+run_name: aged-bat-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762146094021
+status: 3
+tags: []
+user_id: ashut

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/331272148702755333/f6df3829de234178bb398958f0fa9650/artifacts
+end_time: 1762259026917
+entry_point_name: ''
+experiment_id: '331272148702755333'
+lifecycle_stage: active
+run_id: f6df3829de234178bb398958f0fa9650
+run_name: illustrious-worm-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762258997457
+status: 3
+tags: []
+user_id: ashut
