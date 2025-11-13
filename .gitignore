@@ -1,1 +1,4 @@
 mlo/
+mlartifacts/
+mlruns/
+.vscode/
